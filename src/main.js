@@ -1,5 +1,6 @@
 import './styles/reset.css';
 import './styles/style.css';
+import './mapbox.js';
 
 // core version + navigation, pagination modules:
 import Swiper from 'swiper';
